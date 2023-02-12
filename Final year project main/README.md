@@ -3,7 +3,7 @@
 ## Sample images of the web application
 
 ### Home Page
-<img src="images/Sample_Web_App_Images/sample1.png" alt="My cool logo"/>
+<img src="https://github.com/samruddhi-08/Multiple-disease-detection-and-prediction/blob/main/Final%20year%20project%20main/images/Sample_Web_App_Images/Screenshot%20(826).png"/>
 <br>
 
 ### Diabetes Predictor
